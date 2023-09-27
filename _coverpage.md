@@ -6,8 +6,7 @@
 
 > 记录个人所学、所悟、所感 :feet:
 
-* 计算机网络、数据结构、操作系统
-* Java、LeetCode、机器学习   
+* 💪计算机网络、数据结构、操作系统
 - and so on  :heartpulse:
 
 
